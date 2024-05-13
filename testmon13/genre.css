@@ -1,0 +1,65 @@
+.movie{
+    display: flex;
+}
+.choose{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.genre{
+    margin-left: 100px;
+}
+.box{
+    width: 1000px;
+    height: 70px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin-left: 100px;
+   
+    
+}
+.box h2{
+    padding-left: 30px;
+    margin-top: 8px;
+}
+.box p{
+    margin-top:-12px ;
+    padding-left: 30px;
+    color: grey;
+}
+.box2{
+    width: 1000px;
+    height: 70px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.box2 h2{
+    padding-left: 30px;
+    margin-top: 8px;
+}
+.box2 p{
+    margin-top:-12px ;
+    padding-left: 30px;
+    color: grey;
+}
+.box3{
+    width: 1000px;
+    height: 70px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: aliceblue;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.box3 h2{
+    padding-left: 30px;
+    margin-top: 8px;
+}
+.box3 p{
+    margin-top:-12px ;
+    padding-left: 30px;
+    color: grey;
+}
